@@ -1,6 +1,5 @@
 # FraudFilter
 
-CS6348 Data &amp; Applications Security Project
 
 ## Project Description
 
